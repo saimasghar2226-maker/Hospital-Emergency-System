@@ -7,7 +7,8 @@ import java.io.*;
 import java.util.*;
 import java.util.List;
 
-public class HOSPITALEMERGENCYSYSTEM extends JFrame {
+public class
+ HOSPITALEMERGENCYSYSTEM extends JFrame {
 
     private final EmergencyRoom emergencyRoom = new EmergencyRoom();
 
