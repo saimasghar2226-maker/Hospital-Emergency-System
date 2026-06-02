@@ -3,6 +3,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 
 class EmergencyRoom {
+    static int n;
 
     private final PriorityQueue<Patient> waitingQueue;
     private final ArrayList<Patient> treatedPatients;
